@@ -1,3 +1,4 @@
 # georgetown-labs-branding
 
-Thanks to @richardbmx!
+Thanks to:
+https://github.com/richardbmx
